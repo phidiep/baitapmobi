@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Curency</string>
+    <string-array name="spinnerItems">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>JPY</item>
+        <item>GBP</item>
+    </string-array>
+</resources>
